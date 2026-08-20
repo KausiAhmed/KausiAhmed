@@ -24,6 +24,6 @@ Flickr: 50 billion photos, 3 million daily uploads, roughly 1 in 10,000 objects 
 
 ---
 
-Repos here are exploration and comparison work, not production Flickr code. Content is intentional: what I find interesting enough to share, at the frontier of where AI meets platform engineering.
+Most of my work lives in private repos (the green squares below).
 
 📍 SF Bay Area • [LinkedIn](https://www.linkedin.com/in/kausiahmed/)
