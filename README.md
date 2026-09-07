@@ -1,6 +1,6 @@
 ## Kausi Ahmed
 
-Senior Engineering Manager at Flickr (SmugMug). Manager of managers across platform, mobile, backend, and data engineering. 15+ years in software engineering, the last 6 in platform leadership.
+Director of Engineering @ Flickr (SmugMug). Manager of managers across platform, mobile, backend, and data engineering. 15+ years in software engineering, the last 6 in platform leadership.
 
 ### What I'm building here
 
